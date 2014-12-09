@@ -1,0 +1,14 @@
+# Site settings
+title: nhlfr
+email: michal.rostecki@gmail.com
+description: "Linux, cloud computing, Python"
+baseurl: "http://nhlfr.github.io"
+url: "http://nhlfr.github.io"
+highlighter: pygments
+is_user_page: true
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
